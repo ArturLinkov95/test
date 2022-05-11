@@ -1,4 +1,4 @@
-Ozzy Osborn
+Conflict line
 Hans Zimmer
 commit test
 
