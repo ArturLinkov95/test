@@ -1,10 +1,12 @@
-Ozzy Osborn
+Conflict line
+Musition
 Hans Zimmer
 commit test
-456
+
 789
 Add Line
 new branch line
+<<<<<<< HEAD
 
 Russel Crow
 Robert Pattison
@@ -13,3 +15,8 @@ Zoye Deshane
 Jimm Carry
 Emma Stone
 Andrew Garfield
+=======
+Nick Cave
+Oxxymiron
+Benington
+>>>>>>> first_branch
