@@ -6,7 +6,7 @@ commit test
 789
 Add Line
 new branch line
-<<<<<<< HEAD
+
 
 Russel Crow
 Robert Pattison
@@ -15,9 +15,11 @@ Zoye Deshane
 Jimm Carry
 Emma Stone
 Andrew Garfield
-=======
+
 Nick Cave
 Oxxymiron
 Benington
->>>>>>> first_branch
+
 Johnny Depp
+
+Ember Heard
